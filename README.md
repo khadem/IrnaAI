@@ -1,2 +1,2 @@
 # IrnaAI
-AI for Journalism course
+AI in Journalism course
